@@ -7,8 +7,6 @@ use Illuminate\Http\Request;
 class AvatarController extends Controller
 {
     /**
-     *
-     *
      * @param  Request  $request
      * @return Response
      */
